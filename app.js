@@ -1,2 +1,2 @@
-let num = 500;
+let num = 1000;
 console.log(`num is ${num}`);
